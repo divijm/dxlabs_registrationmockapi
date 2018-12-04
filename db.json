@@ -1,0 +1,241 @@
+{
+
+    "players": [
+      {
+        "id": 1,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 2,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 3,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 4,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 5,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 6,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 7,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 8,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 9,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 10,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 11,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 12,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 13,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 14,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 15,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 16,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 17,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 18,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 19,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 20,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      },
+      {
+        "id": 21,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 22,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 23,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 24,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 25,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 26,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 27,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 28,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 29,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }, {
+        "id": 30,
+        "teamCaptain": "hello",
+        "age": "",
+        "gender": "",
+        "lastName": "",
+        "firstName": ""
+      }
+    ],
+
+
+    "profile": {
+      "name": "typicode"
+    }
+}
